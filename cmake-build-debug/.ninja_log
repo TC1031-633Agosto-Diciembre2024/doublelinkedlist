@@ -1,0 +1,16 @@
+# ninja log v6
+0	207	1726589967158127767	CMakeFiles/doublelinkedlist.dir/main.cpp.o	4678b592b167204
+0	213	1726589967158386016	CMakeFiles/doublelinkedlist.dir/Node.cpp.o	411e894abcc65a1
+0	213	1726589967158498765	CMakeFiles/doublelinkedlist.dir/LinkedList.cpp.o	6bc3407b179a72e8
+213	240	1726589967371559305	doublelinkedlist	d5b5314d795ca266
+4	194	1726590011568193543	CMakeFiles/doublelinkedlist.dir/LinkedList.cpp.o	6bc3407b179a72e8
+194	221	1726590011758039910	doublelinkedlist	d5b5314d795ca266
+5	198	1726590065653358157	CMakeFiles/doublelinkedlist.dir/LinkedList.cpp.o	6bc3407b179a72e8
+198	225	1726590065846528098	doublelinkedlist	d5b5314d795ca266
+4	196	1726590163755897066	CMakeFiles/doublelinkedlist.dir/LinkedList.cpp.o	6bc3407b179a72e8
+196	223	1726590163947217804	doublelinkedlist	d5b5314d795ca266
+4	191	1726590303117509463	CMakeFiles/doublelinkedlist.dir/Node.cpp.o	411e894abcc65a1
+191	218	1726590303305126296	doublelinkedlist	d5b5314d795ca266
+4	203	1726590882607823332	CMakeFiles/doublelinkedlist.dir/main.cpp.o	4678b592b167204
+5	209	1726590882608175743	CMakeFiles/doublelinkedlist.dir/LinkedList.cpp.o	6bc3407b179a72e8
+209	237	1726590882812788357	doublelinkedlist	d5b5314d795ca266
